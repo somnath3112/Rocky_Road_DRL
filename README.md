@@ -1,2 +1,2 @@
 # Rocky_Road_DRL
-A simple system to grasp the concepts of DRL. 
+A simple bunch of codes to grasp the concepts of DRL. 
